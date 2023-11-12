@@ -1,0 +1,53 @@
+{
+	"compiler": {
+		"version": "0.8.19+commit.7dd6d404"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"CCIPSender_Unsafe.sol": "CCIP"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"@chainlink/contracts-ccip/src/v0.8/ccip/libraries/Client.sol": {
+			"keccak256": "0x2fb8e11d517fa5ee213aaab3f4d416155cd2b72d61ba443dbeff6b41d29e9523",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://fcdf688dc96619a256fdbddce1a6ceff0f6c57963be267148abdcfd57616725e",
+				"dweb:/ipfs/QmVEF1ZER2V86L8CcMYTqt1VwQ4Xw2pa12pNZbb99UkqRT"
+			]
+		},
+		"CCIPSender_Unsafe.sol": {
+			"keccak256": "0x2789c16cc5da21d4a1d717cf7a3892f222ed3d97f805f241bf02faac3b60a799",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://17d2f5ddadcae024ae5f3d967608a8ea69ca5d77d3c5a446e77938f2bc913490",
+				"dweb:/ipfs/QmcFKzXVqmhGQYHs2FUPrMoorznLtVdhH4wjLMeNVmZdVC"
+			]
+		}
+	},
+	"version": 1
+}
