@@ -9,3 +9,6 @@ OR
 
 Use Link Token. 
 
+Receiver. 
+
+For decoding specify the data decoding data type in the Receiver contract from CCIP. 
